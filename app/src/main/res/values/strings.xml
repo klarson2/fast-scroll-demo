@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Fast Scroll</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country_names">
+        <item>Albania</item>
+        <item>Andorra</item>
+        <item>Armenia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Bulgaria</item>
+        <item>Croatia</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>Estonia</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Georgia</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>Latvia</item>
+        <item>Malta</item>
+        <item>Norway</item>
+        <item>Portugal</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Turkey</item>
+        <item>Ukraine</item>
+        <item>UK</item>
+    </string-array>
+
+    <string-array name="country_descriptions">
+        <item>albania_description</item>
+        <item>andorra_description</item>
+        <item>armenia_description</item>
+        <item>austria_description</item>
+        <item>azerbaijan_description</item>
+        <item>belarus_description</item>
+        <item>belgium_description</item>
+        <item>bosnia_and_herzegovina_description</item>
+        <item>bulgaria_description</item>
+        <item>croatia_description</item>
+        <item>cyprus_description</item>
+        <item>czech_republic_description</item>
+        <item>denmark_description</item>
+        <item>estonia_description</item>
+        <item>finland_description</item>
+        <item>france_description</item>
+        <item>georgia_description</item>
+        <item>hungary_description</item>
+        <item>iceland_description</item>
+        <item>latvia_description</item>
+        <item>malta_description</item>
+        <item>norway_description</item>
+        <item>portugal_description</item>
+        <item>spain_description</item>
+        <item>sweden_description</item>
+        <item>turkey_description</item>
+        <item>ukraine_description</item>
+        <item>uk_description</item>
+    </string-array>
+
+</resources>
